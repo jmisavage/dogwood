@@ -1,0 +1,19 @@
+{
+  "name": "dogwood",
+  "version": "0.1.0",
+  "description": "A basic decision tree engine ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmisavage/dogwood.git"
+  },
+  "author": "Jeremy Misavage",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmisavage/dogwood/issues"
+  },
+  "homepage": "https://github.com/jmisavage/dogwood#readme"
+}
